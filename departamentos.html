@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Salvador | departamentos</title>
+    <link rel="stylesheet" href="./css/style.css"><!--CSS propio-->
+    <!--CSS para iconos-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+</head>
+<body>
+    <!--Inicio de Barra superior-->
+    <nav class="superior">
+        <label for="check" class="checkbtn">
+            <i class="fas fa-bars" ></i>
+        </label>
+        <label class="logo">El Salvador</label>
+        <ul>
+            <li><a class="active" href="index.html">Inicio</a></li>
+            <li><a href="departamentos.html">Departamentos</a></li>
+            <li><a href="desarrolladores.html">Desarrolladores</a></li>
+        </ul>
+    </nav>
+    <!--fin de Barra superior-->
+
+    <div class="container">
+        <input type="checkbox" id="check">
+
+        <!--Inicio del menu lateral izquierdo-->
+        <aside class="sidenav">
+            <!--Opciones que se muestran en movil y tablets-->
+            <ul class="opciones">
+                <li class="list-item titulo-nav"><a href="index.html">Inicio</a></li>
+                <li class="list-item titulo-nav"><a href="departamentos.html">Departamentos</a></li>
+                <li class="list-item titulo-nav"><a href="desarrolladores.html">Desarrolladores</a></li>
+                <li class="list-item titulo-nav">Departamentos</li>
+            </ul>
+
+            <p id="titulo-zona" class="titulo-nav">Municipios</p>
+
+            <!--Listado de Zonas del Pais y su submenus son los departamentos correspondientes a cada uno-->
+            <ul class="listamuni">
+                <li id = "municipios"> </li>   
+            </ul>
+            <!--Fin del listado de zonas-->
+        </aside>
+
+
+        <section class="contenido">
+            <input type="checkbox" id="prueba">
+            <label for="" class="infobtn" id="infocheck">
+                <i class="fas fa-bars" ></i>
+            </label>
+            
+
+            <!--Contenedor del mapa-->
+            <div class="map">
+                <h2 class="tittleabs" id="depaN">Usulután</h2>
+                <img id="imagen" class="imgmunicipio" src="" alt="mapa">
+            </div>
+            <!--Fin del contenedor del mapa-->
+
+            <!--Inicio del panel lateral derecho-->
+            <div class="info" id="info">
+                <div class="close-icon">
+                    <label for="prueba">
+                        <i class="fas fa-times brand-close"></i>
+                    </label>
+                </div>
+                <input type="checkbox" id="datosh">
+                <li class="list-item blue "><label for="datosh">Datos historicos</label></li>
+                <ul class="white" id="historia">
+                    <div class="historia">
+                        <p id="dHistoria">
+                            
+                        </p>
+                    </div>
+                </ul>
+                <input type="checkbox" id="datosh">
+                <li class="list-item blue "><label for="datosh">Centros turisticos</label></li>
+                <ul class="white" id="historia">
+                    <div class="historia">
+                        <ul class="spaceupdown">
+                            <li id = "cturistico"> </li>  
+                            
+                          </ul>
+                    </div>
+                </ul>
+                <input type="checkbox" id="datosh">
+                <li class="list-item blue "><label for="datosh">Lagos</label></li>
+                <ul class="white">
+                    <div class="historia" id="lago">
+                        
+                    </div>
+                </ul>
+                <li class="list-item blue "><label for="datosh">Rios</label></li>
+                <ul class="white">
+                    <div class="historia" id="rios">
+                        
+                    </div>
+                </ul>
+                <li class="list-item blue "><label for="datosh">Volcanes y Cerros</label></li>
+                <ul class="white">
+                    <div class="historia" id="volcanes">
+                        
+                    </div>
+                </ul>
+                <li class="list-item blue "><label for="datosh">Personajes Celebres</label></li>
+                <ul class="white">
+                    <div class="historia" id="personajes">
+                        
+                    </div>
+                </ul>
+                <li class="list-item blue "><label for="datosh"></label></li>
+                <ul class="white">
+                    <div class="historia" id="">
+                        
+                    </div>
+                </ul>
+            </div>
+            <!--Fin del panel lateral derecho-->
+        </section>
+    </div>
+
+    <!--Footer-->
+    <footer>
+        <div class="container-footer">
+            &#169; Derechos Reservados 2020 | Universidad Don Bosco
+        </div>
+    </footer>
+
+    <script src="./js/CargaDepas.js"></script>
+</body>
+</html>

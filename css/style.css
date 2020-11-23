@@ -1,0 +1,715 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: montserrat;
+    display: grid;
+}
+
+.container{
+    display: flex;
+
+}
+
+/*Barra superior*/
+nav.superior{
+    border-bottom: 1px solid black;
+    background: white;
+    height: 70px;
+    width: 100%;
+}
+
+label.logo{
+    color: black;
+    font-size: 35px;
+    line-height: 70px;
+    padding: 0 100px;
+    font-weight: bold;
+}
+
+nav ul{
+    float: right;
+    margin-right: 20px
+}
+
+nav ul li{
+    display: inline-block;
+    line-height: 70px;
+    margin: 0 5px;
+}
+
+nav ul li a{
+    color:  black;
+    font-size: 17px;
+    padding: 7px 13px;
+    border-radius: 3px;
+    text-transform: uppercase;
+}
+
+nav ul li a:hover{
+    background: #c1e1fa;
+    transition: .5s;
+}
+
+.checkbtn{
+    font-size: 30px;
+    color: #00a6da;
+    float: right;
+    line-height: 70px;
+    margin-right: 40px;
+    cursor: pointer;
+    display: none;
+}
+
+
+#check{
+    display: none;
+}
+
+/*menu lateral izquierdo*/
+.sidenav{
+    display: flex;
+    flex-direction: column;
+    height: 90%;
+    width: 220px;
+    position: absolute;
+    overflow-y: auto;
+    transition: all .6s ease-in-out;
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
+    z-index: 2;
+    background-color: #00a6da;
+
+}
+
+.developer
+{
+    display: none;
+}
+
+.close-icon {
+    visibility: hidden;
+}
+
+.opciones{
+    display: none;
+}
+
+/*Opciones del menu lateral izquierdo*/
+.list {
+    padding: 0;
+    margin-top: 10px;
+    list-style-type: none;
+}
+
+.list-item {
+    padding: 15px 5px 15px 0px;
+}
+
+.list-item a{
+    text-decoration: none;
+    color: white;
+    padding: 3% 70% 3% 0%;
+}
+
+.list-item:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    cursor: pointer;
+}
+
+.list-item label {
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+    padding: 12px 25% 12px 25px;
+    
+}
+
+/*Opciones del Submenu*/
+.sublist-item{
+    padding: 10px 5px 10px 10px;
+}
+
+.sublist-item a {
+    text-decoration: none;
+    color: white;
+    padding: 12px 40px;
+}
+
+.sublist-item:hover {
+    background-color: rgba(255, 255, 255, 0.2);
+    cursor: pointer;
+}
+
+.titulo-nav{
+    border-bottom: 1px solid white;
+    border-top: 1px solid white;
+    padding: 15px 0;
+    text-align: center;
+    color: white;
+}
+
+/*Ocultar opciones Submenu */
+#zona-occ{
+    display: none;
+}
+#zona-cen{
+    display: none;
+}
+#zona-ori{
+    display: none;
+}
+#historia{
+    display: block;
+}
+
+/*ocultar checks*/
+input[type="checkbox"]{
+    display: none;
+}
+#datosh:checked ~ #historia{
+    display: block;
+}
+/*Checks*/
+#occidente:checked ~ #zona-occ{
+    display: block;
+}
+
+#central:checked ~ #zona-cen{
+    display: block;
+}
+
+#oriente:checked ~ #zona-ori{
+    display: block;
+}
+
+/*Contenido de la pagina*/
+.contenido{
+    display: flex;
+    position: absolute;
+    top: 70px;
+    bottom: 0;
+    right: 0;
+    left: 220px;
+}
+
+.map{
+    width: 75%;
+}
+
+.imgBox img{
+    width: 100%;
+    height: 100%;
+}
+
+#mapa{
+    width: 100%;
+    height: 100%;
+    background: black;
+}
+
+
+/*Formulario de contactanos*/
+form{
+  width: 500px;
+  max-width: 100%;
+  margin: auto;
+  margin-top: 20px;
+  padding: 20px;
+  background: #f4f4f4;
+  position: relative;
+  border-radius: 10px;
+  box-shadow: 0 0 20px 1px rgba(0,0,0,0.4)
+}
+
+.container-contac
+{
+background-image: url(../img/map_color.png);
+width: 100%;
+height: 600px;
+background-size: cover;
+position:relative;
+padding: 50px;
+bottom: 5px;
+}
+
+.Formulario_titulo{
+  color: #767c77;
+  text-align:center;
+  margin: 0;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.Form-input, .text{
+  width: 100%;
+  display: block;
+  font-size: 1.3em;
+}
+
+.Form-input
+{
+  padding: 10px;
+  border: 1px solid rgba(0,0,0,0.3);
+  margin-bottom: 20px;
+}
+
+.text
+{
+  min-height: 100px;
+  max-height: 200px;
+  max-width: 100%;
+}
+.botonE{
+  width: 50%;
+  background: #00a8cc;
+  color: #fff;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  margin-top: 15px;
+  margin-left: 25%;
+  margin-right: 25%;
+  font-size: 1.3em;
+}
+
+/*Panel lateral derecho*/
+.info{
+    width: 25%;
+    background: white;
+    border: 1px solid black;
+    overflow-y: scroll;
+}
+
+.close-icon {
+    margin-left: 5px;
+    margin-top: 5px;
+    position: inherit;
+    visibility: visible;
+    cursor: pointer;
+    font-size: 20px;
+    color: white;
+    display: none;
+}
+
+#titulo-info{
+    text-align: center;
+    padding: 5px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    font-size: 20px;
+}
+
+.text-info{
+    margin: 5% 2%;
+    font-weight: bold;
+}
+
+.boton{
+    text-align: center;
+    margin: 20% 0 0 0;
+}
+
+.boton a{
+    width: auto;
+    background: #02a5de;
+    color: white;
+    font-size: 20px;
+    border-radius: 30px;
+    padding: 5px 20px;
+}
+
+
+/*Contenedor de Desarrolladores*/
+.container-De
+{
+background-color: #fff;
+position: relative;
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+padding: 20px;
+}
+
+.container-De .card
+{
+  position: relative;
+  max-width: 320px;
+  height: 320px;
+  background: #00a8cc;
+  margin: 15px 15px;
+  padding: 10px 10px;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 5px 35px rgba(0,0,0,0.5);
+  transition: 0.3s;
+}
+
+.container-De .card:hover
+{
+  height: 400px;
+}
+
+.container-De .card .imgBox
+{
+  position: relative;
+  width: 250px;
+  height: 250px;
+}
+
+.container-De .card .imgBox img
+{
+max-width: 100%;
+border-radius: 155px;
+}
+
+.Contenido
+{
+  margin-top: 15px;
+}
+
+.titulo
+{
+  text-align: center;
+  color: white;
+}
+
+/*Footer*/
+footer{
+    width: 100%;
+    height: 40px;
+    background: #4c4c4c;
+    position: fixed;
+    z-index: 3;
+    bottom: 0;
+}
+
+.container-footer{
+    text-align: center;
+    line-height: 40px;
+    color: white;
+    font-size: 20px;
+}
+
+/*Animacion del mapa*/
+path.departamentos{
+    fill: #008cbd;
+    stroke: #00a6da;
+}
+
+path.departamentos:hover{
+    fill: #19c8fd;
+    transition: all 0.5s;
+}
+
+.blue{
+    background-color: #19c8fd;
+    
+}
+.blue:hover{
+    background-color: #02a5de;
+}
+.white{
+    background-color: #e8f3fc;
+}
+
+.historia{
+    padding: 10px 10px 10px 10px;
+    cursor: pointer;
+}
+
+.spaceupdown{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.listamuni{
+    padding: 11px 10px 48px 25px;
+}
+
+.listamuni li{
+    padding: 0px 0px 10px 0px;
+    color: #f4f4f4;
+    cursor: pointer;
+}
+.listamuni li li:hover{
+    padding: 0px 0px 10px 0px;
+    color: #ffffff;
+    cursor: pointer;
+    font-size: large;
+    text-shadow: 0px 2px #7a7a7a;
+    
+}
+.imgmunicipio{
+    width: 90%;
+    height: 75%;
+    margin-left: 7%;
+    margin-top:10%;
+    
+}
+
+.tittleabs{
+    
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 5%;
+    font-size: 300%;
+}
+
+#infocheck
+{
+    display: none;
+}
+
+
+/*--------------------------------------------PARA TABLETS-------------------------------------*/
+@media (max-width: 952px){
+    .container{
+        display: flex;
+    }
+    label.logo{
+        font-size: 30px;
+        padding-left: 25px;
+    }
+
+    /*Para barra superior*/
+    .checkbtn{
+        display: block;
+        float: left;
+        margin: 0 0 0 25px;
+    }
+
+    .infobtn
+    {
+        font-size: 30px;
+        color: #00a6da;
+        line-height: 70px;
+        margin-right: 40px;
+        cursor: pointer;
+        display: block;
+        position: absolute;
+        right: 0;
+    }
+
+    #infocheck
+    {
+        display: block;
+    }
+
+    nav ul li a{
+        font-size: 14px;
+    }
+
+    #check:checked ~ .sidenav{
+        left: 0;
+    }
+
+    /*Barra lateral izquierda*/
+    .sidenav{
+        display: inline;
+        left: -220px;
+        height: 100%;
+    }
+
+    /*Contenido*/
+    .contenido{
+        display: block;
+        top: 70px;
+        bottom: 0;
+        right: 0;
+        left: 0;
+    }
+
+    .map{
+        width: 100%;
+    }
+
+    .info{
+        position: fixed;
+        background: white;
+        right: -45%;
+        height: 100%;
+        width: 45%;
+        transition: all .5s ease-in-out;
+        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
+        z-index: 2;
+        overflow-y: auto;
+        top: 70px;
+    }
+
+    .activate
+    {
+        right: 0;
+    }
+
+    .close-icon {
+        display: block;
+    }
+
+    .informacion{
+        margin: 0;
+    }
+
+    /*Para Barra lateral derecha*/
+
+    .boton a{
+        width: auto;
+        background: #02a5de;
+        color: white;
+        font-size: 15px;
+        border-radius: 30px;
+        padding: 5px 20px;
+    }
+
+    /*Footer*/
+    footer{
+        width: 100%;
+        height: 40px;
+        background: #4c4c4c;
+        position: fixed;
+        z-index: 1;
+        bottom: 0;
+    }
+}
+
+/*----------------------------------------------PARA MOVIL--------------------------------------*/
+@media (max-width: 767px){
+
+    body
+    {
+        display: block;
+    }
+
+    label.logo{
+        font-size: 20px;
+        padding-left: 50px;
+    }
+
+    .checkbtn{
+        display: block;
+    }
+
+    nav ul{
+        display: none;
+    }
+
+    /*menu lateral*/
+    .sidenav {
+        left: -100%;
+        height: 100%;
+        width: 100%;
+        text-align: center;
+        transition: all .5s;
+        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
+        z-index: 2;
+    }
+
+    .developer
+    {
+        display: block;
+    }
+
+    .opciones{
+        display: block;
+    }
+
+    .opciones li{
+        padding: 15px 0 15px 20px;
+    }
+
+    #check:checked ~ .sidenav{
+        left: 0;
+    }
+
+    #titulo-zona{
+        display: none;
+    }
+
+    .list-item {
+        text-align: left;
+        padding: 20px 0px 10px 0px;
+        color: white;
+    }
+
+    .list-item label {
+        cursor: pointer;
+        text-decoration: none;
+        color: white;
+        /*padding: 15px 60% 15px 20px;*/
+    }
+
+    .sublist-item{
+        text-align: left;
+        padding: 10px 5px 10px 10px;
+    }
+
+    .sublist-item a {
+        text-decoration: none;
+        color: white;
+        padding: 2% 55% 2% 40px;
+    }
+
+    /*Contenido*/
+    .contenido{
+        margin-left: 0px;
+    }
+
+    /*Panel Lateral derecho*/
+    .close-icon {
+        display: block;
+        color: black;
+    }
+
+    .info{
+        background: white;
+        right: -100%;
+        height: 90%;
+        width: 100%;
+        transition: all .5s ease-in-out;
+        box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
+        z-index: 1;
+        overflow-y: auto;
+    }
+
+    .activate
+    {
+        right: 0;
+    }
+
+    .boton{
+        text-align: center;
+        margin: 10% 0 10% 0;
+    }
+
+    .boton a{
+        width: auto;
+        background: #02a5de;
+        color: white;
+        font-size: 20px;
+        border-radius: 30px;
+        padding: 5px 20px;
+    }
+
+    /*Footer*/
+    footer{
+        width: 100%;
+        height: 40px;
+        background: #4c4c4c;
+        position: fixed;
+        z-index: 0;
+        bottom: 0;
+    }
+
+    .container-footer{
+        text-align: center;
+        line-height: 40px;
+        color: white;
+        font-size: 12px;
+    }
+}

@@ -1,0 +1,296 @@
+[
+    {
+        "id": "morazan",
+        "departamento": "Morazán",
+        "cabecera": "San Francisco Gotera",
+        "extension_territorial": "1.447 km²",
+        "habitantes": "251447 hab.",
+        "fiesta_patronales": "del 1 al 5 de octubre, en honor de San Francisco de Asís.",
+        "municipios": ["Arambala","Cacaopera","Corinto","Chilanga","Delicias de Concepción","El Divisadero","El Rosario","Gualococti","Guatajiagua","Joateca","Jocoaitique","Jocoro","Lolotiquillo","Meanguera","Osicala","Perquín","San Carlos","San Fernando","San Francisco Gotera","San Isidro","San Simón","Sensembra","Sociedad","Torola","Yamabal","Yoloaiquín"],
+        "centros_turisticos": ["MUNICIPIO DE PERQUIN", "BALNEARIO LLANO DEL MUERTO", "CENTRO TURISTICO APALIPUL", "RIO TOROLA", "BAILADERO DEL DIABLO", "BALNEARIO OBRA DE DIOS", "BALNEARIO TESORO ACUATICO", "HOTEL ARIZONA PERQUIN", "LA CUEVA DE MORAZAN"],
+        "dato_historico": "Al departamento se le dio el nombre actual por decreto el 14 de marzo de 1887, en honor del paladín de la Unión Centroamericana, general Francisco Morazán. Por ley del 5 de febrero de 1877 se otorgó a la villa de Gotera el título de ciudad. Fue fundado como departamento el 14 de julio de 1875.",
+        "rios": "Torola, Tamarindo, Cañas, Yamabal y San Francisco",
+        "lagos": "",
+        "cerros": "Cerro El Pericón  Cerro Cacahuatique",
+        "volcanes": "",
+        "personajes": {
+            "alcalde": "Nahin Arnelge Ferrufino Benítez",
+            "escritores": "",
+            "celebres": "Francisco Morazán: Uno de los próceres que lucharon por la unidad política de la América Central fue Francisco Morazán. De descendencia italiana, nació en Tegucigalpa, Honduras, el 13 de octubre de 1792. A los veinte años empezó su carrera política y social, pues Morazán fue bien recibido por su presencia y sus dotes de joven culto e inteligente."
+        },
+        "imagen": "mapa_morazan"
+    },
+    {
+        "id": "cabanas",
+        "departamento": "Cabañas",
+        "cabecera": "Sensuntepeque",
+        "extension_territorial": "1.104 km²",
+        "habitantes": "215,400 hab.",
+        "fiesta_patronales": "del 24 de noviembre al 5 de diciembre, en honor de Santa Bárbara.",
+        "municipios": ["Sensuntepeque", "Cinquera", "Dolores", "Guacotecti", "Ilobasco ", "Jutiapa", "San Isidro", "Tejutepeque", "Victoria"],
+        "centros_turisticos": ["MUSEO Y PARQUEACUATICO LA CASA DE LA HACIENDA", "RIO LEMPA, EL PARQUE CABAÑAS", "RIO TITIHUAPA", "BOSQUE DE CINQUERA", "CERRO DE CABAÑAS", "EL RANCHO PORVENIR"],
+        "dato_historico": "esta región hay varias cosas que se deben resaltar. Primeramente, que se trata de uno de los departamentos más nuevos en la República de El Salvador. En este sentido, su creación es fechada el 10 de febrero del año de 1873. Cuando le fue dado el nombre por medio de un decreto legislativo a manera de homenaje de un político hondureño centroamericano llamado José Trinidad Cabañas.",
+        "rios": "los ríos Lempa y Titihuapa donde se desarrolla la pesca artesanal así como la generación de energía eléctrica al país por medio de la central hidroeléctrica 5 de noviembre ubicada en el cantón San Nicolás.",
+        "lagos": "",
+        "cerros": "Es una población rodeada de cerros, entre los principales se encuentran el Pelón y Cordoncillo",
+        "volcanes": "El volcán Picacho y Cuchinche",
+        "personajes": {
+            "alcalde": "Jesús Edgar Bonilla Navarrete",
+            "escritores": "Laura Hernández de Salazar, José María Cuéllar, Maura Echeverría",
+            "celebres": ""
+        },
+        "imagen": "mapa_cabanas"
+    },
+    {
+        "id": "chalatenango",
+        "departamento": "Chalatenango",
+        "cabecera": "Chalatenango",
+        "extension_territorial": "2.017 km²",
+        "habitantes": "275 100 hab.",
+        "fiesta_patronales": "",
+        "municipios": ["Chalatenango", "Agua Caliente", "Arcatao", "Azacualpa", "Cancasque", "Citalá", "Comalapa", "Concepción Quezaltepeque", "Dulce Nombre de María", "El Carrizal", "El Paraíso", "La Laguna", "La Palma", "La Reina", "Las Flores", "Las Vueltas", "Nombre de Jesús", "Nueva Concepción (Ciudad más poblada)", "Nueva Trinidad", "Ojos de Agua", "Potonico", "San Antonio de la Cruz", "San Antonio Los Ranchos", "San Fernando", "San Francisco Lempa", "San Francisco Morazán", "San Ignacio", "San Isidro Labrador", "San Luis del Carmen", "San Miguel de Mercedes", "San Rafael", "Santa Rita", "Tejutla"],
+        "centros_turisticos": ["URICENTRO AGUA FRIA", "RIO SUMPUL/TURICENTRO", "CERRO EL PITAL", "MUNICIPIO LA PALMA", "CANTON LAS PILAS", "PARQUE DE LA FAMILIA", "BALNEARIO LA HACIENDA", "COUNTRY CLUB CHALATENANGO", "EL REFUGIO", "EL RIO LEMPA CHALATENANGO"],
+        "dato_historico": "La masacre del Sumpul es uno de esos pasajes tristes de la historia de Chalatenango que sucedió cuando iniciaba el conflicto armado en El Salvador en la década de los ochentas, una guerra que cobró la vida de más de 75 mil salvadoreños.",
+        "rios": "Río Lempa, Río Sumpul, Río Tamulasco, Río Grande, Río Azambio",
+        "lagos": "Lago Suchitlan",
+        "cerros": "Cerro El Pital",
+        "volcanes": "",
+        "personajes": {
+            "alcalde": "José Rigoberto Mejía Menjívar",
+            "escritores": "Matías Romero: Nació en el municipio de Dulce Nombre de María, Chalatenango, El Salvador, en 1927. Poeta, ensayista, profesor universitario, filósofo, lingüista y académico de la lengua. ",
+            "celebres": "José María San Martín: nació en Nacaome, una ciudad del departamento de Valle, en Honduras el 29 de marzo de 1811. Sin embargo, en 1819 junto a toda su familia se vinieron a vivir definitivamente a El Salvador. Fueron dueños de muchas tierras en Tejutla y Chalatenango, incluida la Hacienda Amayo."
+        },
+        "imagen": "mapa_chalatenango"
+    },
+    {
+        "id": "cuscatlan",
+        "departamento": "Cuscatlán",
+        "cabecera": "Cojutepeque",
+        "extension_territorial": "756 km²",
+        "habitantes": "232 238 hab.",
+        "fiesta_patronales": "12 al 21 de enero, en honor de San Sebastián Mártir y de la Inmaculada Virgen de Concepción.",
+        "municipios": ["Cojutepeque","San Bartolomé Perulapía","Tenancingo","Candelaria","San José Guayabal","Santa Cruz Analquito","Santa Cruz Michapa","Monte de San Juan","San Rafael Cedros","San Pedro Perulapán","El Carmen","San Ramón","El Rosario","El Rosario","Suchitoto","San Cristóbal"],
+        "centros_turisticos": ["CERRO DE LAS PAVAS", "MUNICIPIO DE SUCHITOTO", "LAGO DE ILOPANGO", "LAGO DE SUCHITLAN", "MUNICIPIO DE COJUTEPEQUE", "MUSEO Y PARQUE ACUATICO LA CASA DE LA HACIENDA"],
+        "dato_historico": "El departamento fue constituido durante la administración del Jefe de Estado Nicolás Espinoza, por Decreto Ejecutivo el 22 de mayo de 1835.",
+        "rios": "",
+        "lagos": "Lago de Suchitlán",
+        "cerros": "Cerro la Colima, Cerro de Las Pavas",
+        "volcanes": "Caldera de Ilopango",
+        "personajes": {
+            "alcalde": "Mercedes Lili Bello de Perdomo",
+            "escritores": "Ana Dolores Arias,Raúl Contreras",
+            "celebres": ""
+        },
+        "imagen": "mapa_cuscatlan"
+    },
+    {
+        "id": "la_libertad",
+        "departamento": "La Libertad ",
+        "cabecera": "Santa Tecla",
+        "extension_territorial": "1.653 km²",
+        "habitantes": "660 653 hab.",
+        "fiesta_patronales": "del 16 al 25 de diciembre, en honor al nacimiento del Niño Jesús.",
+        "municipios": ["Santa Tecla","Tepecoyo","Colón","San Matías","Nuevo Cuscatlán","San José Villanueva","Chiltiupán","Teotepeque","Jayaque","Talnique","Comasagua","Huizúcar","Zaragoza","Jicalapa","Ciudad Arce","La Libertad","Sacacoyo","San Pedro Tacachico","Quezaltepeque","Tamanique","San Juan Opico","Antiguo Cuscatlán"],
+        "centros_turisticos": ["LOS CHORROS", "PARQUE ACUATICO TERMOS DEL RIO", "PLAYA EL MAJAHUAL", "PLAYA EL TUNCO", "PARQUE NACIONAL EL BOQUERON", "TOMA DE QUEZALTEPEQUE", "PASEO EL CARMEN"],
+        "dato_historico": "El departamento fue creado en 1865 por un decreto legislativo que fue publicado en el periódico oficial del gobierno 'El Constitucional' Tomo 1, Número 70, en el 9 de febrero de 1865.",
+        "rios": ":  Destacan los ríos, Lempa, con un recorrido de 19,5 km en el departamento, y el Sucio con 32,5 km en el departamento",
+        "lagos": "",
+        "cerros": "",
+        "volcanes": "el volcán de San Salvador o Quezaltepeque con una elevación de 1959 msnm",
+        "personajes": {
+            "alcalde": "Roberto José D'Aubuisson Munguía",
+            "escritores": "Joaquín Castro Canizáles, José María Peralta Lagos, Antonio Salazar",
+            "celebres": ""
+        },
+        "imagen": "mapa_lalibertad"
+    },
+    {
+        "id": "la_paz",
+        "departamento": "La Paz",
+        "cabecera": "Zacatecoluca",
+        "extension_territorial": "1.224 km²",
+        "habitantes": "320 379 hab.",
+        "fiesta_patronales": "del 15 al 31 de diciembre en honor de Santa Lucía, Nuestra Señora de los Pobres.",
+        "municipios": ["Zacatecoluca","Cuyultitán","Mercedes de la Ceiba","Olocuilta","Paraiso de Osorio","Rosario de la Paz","San Juan Tepezontes","San Juan Talpa","San Luis Talpa","Santa María Ostuma","San Luis la Herradura","San Antonio Masahuat","San Pedro Masahuat","San Pedro Nonualco","San Francisco Chinameca","Santiago Nonualco","San Emigdio","San Juan Nonualco","San Rael Obrajuelo","Tapalhuaca"],
+        "centros_turisticos": ["PARQUE ACUATICO ICHANMICHEN", "PLAYA COSTA DEL SOL", "PLAYA LA PUNTILLA", "PARQUE ACUATICO ATLANTIS", "PARQUE ACUATICO MANANTIALES DE JIBOA", "PLAYA LOS BLANCOS", "HOTEL PATO CANALES", "POLIDEPORTIVO DE SAN RAFAEL OBRAJUELO"],
+        "dato_historico": "Santiago Nonualco, en el departamento de La Paz, guarda en su memoria importantes hechos históricos que lo hacen parte de la cultura colonial. Libertadores, luchas, tradiciones folclóricas que hoy viven en sus pobladores son algunos componentes que nos sirven para describir a esta población.",
+        "rios": "Santiago Nonualco, en el departamento de La Paz, guarda en su memoria importantes hechos históricos que lo hacen parte de la cultura colonial. Libertadores, luchas, tradiciones folclóricas que hoy viven en sus pobladores son algunos componentes que nos sirven para describir a esta población.",
+        "lagos": "El Lago de Ilopango, LAGUNA EL GALLO,LAGUNA LA PANCHA,LAGUNA LA PANCHA,LAGUNA LA PANCHA,LAGUNA SOLOMILLANA,LAGUNA SOLOMILLITA",
+        "cerros": "",
+        "volcanes": "el volcán Chinchontepec que significa en idioma nahuat Cerro de dos tetas”",
+        "personajes": {
+            "alcalde": "Francisco Salvador Hirezi Morataya",
+            "escritores": "Cristóbal Humberto Ibarra,Carlos Lobato",
+            "celebres": ""
+        },
+        "imagen": "mapa_lapaz"
+    },
+    {
+        "id": "la_union",
+        "departamento": "La Unión",
+        "cabecera": "La Unión",
+        "extension_territorial": "2.074 km",
+        "habitantes": "372 271 hab.",
+        "fiesta_patronales": "4 de noviembre, en honor de San Carlos Borromeo.",
+        "municipios": ["San Alejo","Pasaquina","Conchagua","Lislique","Meanguera","Yayantique","San José la Fuente","El Sauce","Polorós","El Carmen","Santa Rosa de Lima","Bolivar","Anamorós","Yucuaiquin","La Unión","Intipucá","La Unión","Intipucá","Nueva Esparta","Concepción de Oriente"],
+        "centros_turisticos": ["PLAYA LAS TUNAS", "PARQUE ACUATICO AQUA PARK", "PLAYA PLAYITAS", "PARQUE DE LA FAMILIA LA UNION", "MUNICIPIO DE CONCHAGUA", "PLAYA EL TAMARINDO", "BALNEARIO OBRA DE DIOS", "CENTRO TURISTICO ONDA SPLASH", "CERRO DE CONCHAGUALAS", "PLAYAS DE CONCHAGUA"],
+        "dato_historico": "HISTORICO Por Decreto Ejecutivo del 22 de junio de 1865, nace el departamento de La Unión durante la administración del doctor Francisco Dueñas.",
+        "rios": "Goascorán, Sirama, Lislique y Güeripe",
+        "lagos": "Existen las lagunas de Olomega, Los Negritos o Maquigüe, El Pilón, Managuara, Los Chorros o Los Mangos, El Ciprés y Poza del Hangar, así como las bahías de La Unión, Santa Ana y La Playona",
+        "cerros": "",
+        "volcanes": "",
+        "personajes": {
+            "alcalde": "Ezequiel Milla Guerra",
+            "escritores": "Napoleón Viera Altamirano, Hugo Lindo",
+            "celebres": ""
+        },
+        "imagen": "mapa_launion"
+    },
+    {
+        "id": "ahuachapan",
+        "departamento": "Ahuachapán",
+        "cabecera": "Ahuachapán",
+        "extension_territorial": "1.240 km² ",
+        "habitantes": "375,496 hab.",
+        "fiesta_patronales": "5 al 14 de febrero en honor del Dulce Nombre de Jesús.",
+        "municipios": ["Ahuachapán","Apaneca","Atiquizaya", "Concepción de Ataco"," El Refugio","Guaymango","Jujutla","San Francisco Menéndez", "San Lorenzo", "San Pedro Puxtl", "Tacuba"," Turín"],
+        "centros_turisticos": ["PLAYA BARRA DE SANTIAGO"," MUNICIPIO DE CONCEPCION DE ATACO"," TURICENTRO EL JICARO"," TERMALES DE SANTA TERESA"," RUTA DE LAS FLORES"," TURICENTRO HACIENDA SAN RAYMUNDO"," MUNICIPIO DE APANECA"," LA LAGUNA VERDE DE APANECA"," RIO PAZ"," LAGUNA EL ESPINO."],
+        "dato_historico": "Fue creado por el Decreto Legislativo del 9 de febrero de 1869 durante la administración de Francisco Dueñas.",
+        "rios": "El principal río es el río Paz, que sirve de frontera con Guatemala, otros ríos cortos y torrenciales bajan de la Cordillera Costera.",
+        "lagos": "Existen las lagunas de Olomega, Los Negritos o Maquigüe, El Pilón, Managuara, Los Chorros o Los Mangos, El Ciprés y Poza del Hangar, así como las bahías de La Unión, Santa Ana y La Playona",
+        "cerros": ["Cerro Apaneca","el cerro Ataco","Cerro de Oro"],
+        "volcanes": "Volcán Apaneca o Chichicastepeque ",
+        "personajes": {
+            "alcalde": "Abilio Flores Vásquez",
+            "escritores": "Ricardo Trigueros de León, Alfredo Espino,Mari Bencastro",
+            "celebres": "General Francisco Menéndez"
+        },
+        "imagen": "mapa_ahuachapan"
+    },
+    {
+        "id": "santa_ana",
+        "departamento": "Santa Ana",
+        "cabecera": "Santa Ana",
+        "extension_territorial": "2.023 km²",
+        "habitantes": "631 100 hab.",
+        "fiesta_patronales": "17 al 26 de julio, en honor de Nuestra Señora de Santa Ana.",
+        "municipios": ["Candelaria de la Frontera ","Chalchuapa ","Coatepeque"," El Congo"," El Porvenir"," Masahuat"," Metapán"," San Antonio ","Pajonal"," San Sebastián"," Salitrillo"," Santa Ana","Santa Rosa"," Guachipilín ","Santiago de la Frontera"," Texistepeque"],
+        "centros_turisticos": ["PARQUE ACUATICO SIHUATEHUACAN"," LAGO DE COATEPEQUE"," PARQUE ARQUEOLOGICO EL TAZUMAL"," PARQUE ACUATICO APUZUNGA"," TURICENTRO EL TRAPICHE"," PARQUE ACUATICO LAS CASCADAS"," PARQUE ACUATICO GALICIA"," PARQUE NACIONAL CERRO VERDE"," PARQUE NACIONAL MONTECRISTO"," RUTA DE LOS NARANJOS"],
+        "dato_historico": "En el tiempo de la conquista, la zona de Santa Ana fue ocupada por las tribus chortis y pokomames, ambos de la familia maya–quiché.",
+        "rios": "Goascorán, Sirama, Lislique y Güeripe",
+        "lagos": "El Lago de Güija, Lago de Coatepeque",
+        "cerros": "Cerro Verde,Cerro Montecristo",
+        "volcanes": "volcán de Santa Ana o Ilamatepec,volcán Chingo",
+        "personajes": {
+            "alcalde": "Carmen Elena Calderón Sol de Escalón",
+            "escritores": "David Escobar Galindoo, Miguel Ángel Espino,Álvaro Ménendez Leal",
+            "celebres": ""
+        },
+        "imagen": "mapa_santaana"
+    },
+    {
+        "id": "san_salvador",
+        "departamento": "San Salvador",
+        "cabecera": "San Salvador",
+        "extension_territorial": "886,2 km²",
+        "habitantes": "3 054 876 hab.",
+        "fiesta_patronales": "San Salvador (cabecera) del 1 al 6 de agosto, en honor del Divino Salvador del Mundo.",
+        "municipios": ["Aguilares"," Apopa"," Ayutuxtepeque"," Cuscatancingo"," Ciudad Delgado"," El Paisnal"," Guazapa"," Ilopango ","Mejicanos"," Nejapa"," Panchimalco ","Rosario de Mora"," San Marcos"," San Martín"," San Salvador"," Santiago Texacuangos"," Santo Tomás ","Soyapango"," Tonacatepeque"],
+        "centros_turisticos": ["LAGO DE ILOPANGO APULO"," PLANES DE RENDEROS"," VOLCAN DE SAN SALVADOR"," LOS PLANES DE RENDEROS"," POLIDEPORTIVO DE NEJAPA"," PUERTA DEL DIABLO"," ZOOLOGICO NACIONAL"," PARQUE BICENTENARIO"," CENTRO HISTORICO DE SAN SALVADOR"],
+        "dato_historico": "Fue erigido durante la administración del primer Jefe de Estado y prócer de la Independencia centroamericana Juan Manuel Rodríguez, por artículo constitucional el 12 de junio de 1824. Su cabecera, que es también capital de la República, es la ciudad de San Salvador, fundada por el capitán Gonzalo de Alvarado alrededor del 1 de abril de 1525. ",
+        "rios": "Río Lempa, Río Acelhuate, Río Jiboa, Río Sucio, Río Sumpul",
+        "lagos": "Existen las lagunas de Olomega, Los Negritos o Maquigüe, El Pilón, Managuara, Los Chorros o Los Mangos, El Ciprés y Poza del Hangar, así como las bahías de La Unión, Santa Ana y La Playona",
+        "cerros": "",
+        "volcanes": "El Boqueron, Volcán de San Salvador",
+        "personajes": {
+            "alcalde": "Ernesto Luis Muyshondt García Prieto",
+            "escritores": "Matilde Elena López,Arturo Ambrogi,Ricardo Lindo,María de Baratta",
+            "celebres": ""
+        },
+        "imagen": "mapa_sansalvador"
+    },
+    {
+        "id": "san_vicente",
+        "departamento": "San Vicente",
+        "cabecera": "San Vicente",
+        "extension_territorial": "1.184 km²",
+        "habitantes": "235,205 hab.",
+        "fiesta_patronales": "del 10 al 31 de diciembre, en honor de San Vicente Abad y Mártir.",
+        "municipios": ["Apastepeque ","Guadalupe ","San Cayetano Istepeque"," San Esteban Catarina"," San Ildefonso"," San Lorenzo"," San Sebastián ","San Vicente ","Santa Clara","Santo Domingo"," Tecoluca"," Tepetitán","Verapaz"],
+        "centros_turisticos": ["PARQUE ACUATICO AMAPULAPA"," LAGUNA DE APASTEPEQUE"," CENTRO RECREATIVO ACCOVI"," MUNICIPIO DE APASTEPEQUE"," MUNICIPIO DE SANVICENTE  "],
+        "dato_historico": "El departamento fue creado durante la administración del primer Jefe de Estado y optimate de la Independencia Centroamericana Juan Manuel Rodríguez, el 12 de junio de 1824 y funcionó como capital de El Salvador de 1834 a 1840",
+        "rios": "Goascorán, Sirama, Lislique y Güeripe",
+        "lagos": "Laguna de Apastepeque",
+        "cerros": "Cerro Santa Rita",
+        "volcanes": "Volcán de San Vicente (Chichontepec)",
+        "personajes": {
+            "alcalde": "Medardo Hernández Lara",
+            "escritores": "Sarbelio Navarrete,Ricardo Martell Caminos,Alfonso Hernández",
+            "celebres": ""
+        },
+        "imagen": "mapa_sanvicente"
+    },
+    {
+        "id": "san_miguel",
+        "departamento": "San Miguel",
+        "cabecera": "San Miguel",
+        "extension_territorial": "2077 km²",
+        "habitantes": "520 022 hab.",
+        "fiesta_patronales": "San Miguel, del 14 al 30 de noviembre dedicadas a Nuestra Señora de la Paz.",
+        "municipios": ["San Miguel","Carolina"," Chapeltique"," Chinameca"," Chirilagua ","Ciudad Barrios"," Comacarán"," El Tránsito"," Lolotique"," Moncagua"," Nueva Guadalupe"," Nuevo Edén de San Juan"," Quelepa"," San Antonio"," San Gerardo"," San Jorge"," San Luis de la Reina"],
+        "centros_turisticos": ["PLAYA EL CUCO"," TURICENTRO AQUAPARK"," TURICENTRO FLOR DE RIO"," PARQUE ACUATICO ALTOS DE LA CUEVA"," PARQUE DE DIVERSIONES LA AVENTURA DEL MONO"," PLAYA EL TAMARINDO"," LAGUNA EL JOCOTAL"," BALNEARIO OBRA DE DIOS"],
+        "dato_historico": "El 8 de mayo de 1530 fue fundada la ciudad de San Miguel por don Pedro de Alvarado y En 1763, el volcán Chaparrastique hizo su primera erupción.",
+        "rios": "Río Grande",
+        "lagos": "Laguna de Olomega, Laguna de Aramuaca, Laguna El Jocatal",
+        "cerros": "",
+        "volcanes": "Volcán Chaparrastique",
+        "personajes": {
+            "alcalde": "Miguel Ángel Pereira Ayala",
+            "escritores": "Manlio Argueta, Francisco Gavidia",
+            "celebres": ""
+        },
+        "imagen": "mapa_sanmiguel"
+    },
+    {
+        "id": "usulutan",
+        "departamento": "Usulután",
+        "cabecera": "Usulután",
+        "extension_territorial": "2.130 km²",
+        "habitantes": "465 383 hab.",
+        "fiesta_patronales": "del 18–25 de noviembre, dedicadas a Santa Catarina de Alejandría.",
+        "municipios": ["Usulután"," Alegría"," Berlín"," California"," Concepción Batres"," El Triunfo"," Ereguayquín"," Estanzuelas"," Jiquilisco"," Jucuapa"," Jucuarán"],
+        "centros_turisticos": ["PLAYA EL ESPINO"," MUNICIPIO DE ALEGRIA"," BAHIA DE JIQUILISCO"," LAGUNA DE ALEGRIA"," LA PIRRAYA COUNTRY CLUB"," ISLA LA PIRRAYA"," PUERTO EL TRIUNFO"," PARQUE ACUATICO AQUA PARK"],
+        "dato_historico": "El departamento fue creado el 22 de junio de 1865 durante la administración del licenciado Francisco Dueñas.",
+        "rios": "Grande de San Miguel",
+        "lagos": "laguna del Jocotal ",
+        "cerros": "",
+        "volcanes": "volcán de Usulután, volcán Tecapa",
+        "personajes": {
+            "alcalde": "José Mauricio Zelaya",
+            "escritores": "Alberto Masferrer, Armando Rodríguez Portillo, Vicente Rosales y Rosales",
+            "celebres": ""
+        },
+        "imagen": "mapa_usulutan"
+    },
+    {
+        "id": "sonsonate",
+        "departamento": "Sonsonate",
+        "cabecera": "Sonsonate",
+        "extension_territorial": "1.226 km²",
+        "habitantes": "535 561 hab.",
+        "fiesta_patronales": "del 25 de enero al 5 de febrero, en honor de la Virgen de Candelaria.",
+        "municipios": ["Sonsonate" , "Acajutla" , "Armenia" , "Caluco" , "Cuisnahuat" , "Izalco" , "Juayúa" , "Nahuizalco" , "Nahulingo" , "Salcoatitán" , "San Antonio del Monte" , "San Julián" , "Santa Catarina Masahuat" , "Santa Isabel Ishuatán" , "Santo Domingo de Guzmán" , "Sonzacate"],
+        "centros_turisticos": ["PLAYA LOS COBANOS" , "PARQUE ACUATICO ATECOZOL" , "ECOPARQUE ACUATICO ENTRE RIOS" , "DECAMERON SALINITAS" , "BALNEARIO CALUCO" , "TURICENTRO ATECOZOL" , "PARQUE NACIONAL CERRO VERDE" , "MUNICIPIO DE JUAYUA" , "PLAYA METALIO" , "TURICENTRO AGAPE" ],
+        "dato_historico": "Fundada por el mercader Antonio Rodríguez en el año 1552, con el nombre de villa del Espíritu Santo de Sonsonate, a orillas del río Sensunapán, lugar de donde luego fue trasladada hacia la villa de la Santísima Trinidad.",
+        "rios": " ",
+        "lagos": "",
+        "cerros": "",
+        "volcanes": "Volcán de Izalco, san marcelino",
+        "personajes": {
+            "alcalde": "Ezequiel Milla Guerra",
+            "escritores": "Salarrué, Claudia Lars, Carlos Arturo Imendia",
+            "celebres": ""
+        },
+        "imagen": "mapa_sonsonate"
+    }
+]

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es" dir="ltr">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Desarrolladores</title>
+ <link rel="stylesheet" href="./css/style.css"><!--CSS propio-->
+ <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+<body>
+  
+
+  <!--Inicio de Barra superior-->
+  <nav class="superior">
+      <label for="check" class="checkbtn">
+          <i class="fas fa-bars" ></i>
+      </label>
+      <label class="logo">Desarrolladores</label>
+      <ul>
+          <li><a class="active" href="index.html">Inicio</a></li>
+          <li><a href="departamentos.html">Departamentos</a></li>
+          <li><a href="desarrolladores.html">Desarrolladores</a></li>
+      </ul>
+  </nav>
+  <!--fin de Barra superior-->
+
+  <!--Inicio de contededor de Desarrolladores-->
+  <div class="container-De">
+    <input type="checkbox" id="check">
+    <!--Inicio del menu lateral izquierdo-->
+    <aside class="sidenav developer">
+        <!--Opciones que se muestran en movil y tablets-->
+        <ul class="opciones">
+            <li class="list-item titulo-nav"><a href="index.html">Inicio</a></li>
+            <li class="list-item titulo-nav"><a href="departamentos.html">Departamentos</a></li>
+            <li class="list-item titulo-nav"><a href="desarrolladores.html">Desarrolladores</a></li>
+        </ul>
+    </aside>
+
+      <div class="card">
+       <div class="imgBox">
+         <img src="img/integrantes/Xavier.jpg">
+       </div>
+       <div class="Contenido">
+         <h2 class="titulo">Xavier Canjura</h2>
+       </div>
+     </div>
+
+     <div class="card">
+      <div class="imgBox">
+        <img src="img/integrantes/josseline.jpg">
+      </div>
+      <div class="Contenido">
+        <h2 class="titulo">Josseline Recinos</h2>
+      </div>
+     </div>
+
+     <div class="card">
+     <div class="imgBox">
+       <img src="img/integrantes/saul.jpg">
+     </div>
+     <div class="Contenido">
+       <h2 class="titulo">Saúl Laínez</h2>
+     </div>
+     </div>
+
+     <div class="card">
+     <div class="imgBox">
+       <img src="img/integrantes/alejandro.png">
+     </div>
+     <div class="Contenido">
+       <h2 class="titulo">Alejandro Mejía</h2>
+     </div>
+     </div>
+
+     <div class="card">
+     <div class="imgBox">
+      <img src="img/integrantes/williams.jpg" alt="William">
+     </div>
+     <div class="Contenido">
+      <h2 class="titulo">Williams Amaya</h2>
+     </div>
+     </div>
+
+    </div>
+<!--Fin de contededor de Desarrolladores-->
+
+  <!--Inicio de formulario-->
+      <div class="container-contac">
+          <form action="POST">
+            <h2 class="Formulario_titulo">Contactanos</h2>
+            <input id="nombre" type="text" class="Form-input"  placeholder="Nombre completo" required>
+            <input id="correo" type="email" class="Form-input" placeholder="Correo electronico" required>
+            <textarea id="mensaje" class="Form-input" placeholder="Mensaje" rows="8" cols="80" required></textarea>
+            <input id="enviar" type="submit" class="botonE" value="ENVIAR">
+          </form>
+      </div>
+
+<!--fin de formulario-->
+
+      <!--Footer-->
+      <footer>
+          <div class="container-footer">
+              &#169; Derechos Reservados 2020 | Universidad Don Bosco
+          </div>
+      </footer>
+    <script src="./js/sweetalert2.js"></script>
+    <script src="./js/contactanos.js"></script>
+</body>
+</html>
